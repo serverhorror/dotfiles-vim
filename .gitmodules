@@ -1,0 +1,3 @@
+[submodule "bundle/pyflakes"]
+	path = bundle/pyflakes
+	url = https://github.com/serverhorror/pyflakes-vim.git
