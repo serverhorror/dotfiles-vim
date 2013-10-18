@@ -1,0 +1,3 @@
+[submodule "bundle/synastic"]
+	path = bundle/synastic
+	url = https://github.com/serverhorror/syntastic.git
