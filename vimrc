@@ -20,6 +20,9 @@ set modelines=4
 set autoindent
 set omnifunc=syntaxcomplete#Complete
 
+" I have mostly a dark background!
+set bg=dark
+
 " Syntastic Settings
 let g:syntastic_check_on_open=1
 
