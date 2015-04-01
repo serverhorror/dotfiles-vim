@@ -1,0 +1,4 @@
+*.swp
+.DS_Store
+bundle/.DS_Store
+bundle/synastic/
