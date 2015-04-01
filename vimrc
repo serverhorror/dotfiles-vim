@@ -7,7 +7,7 @@ set runtimepath+='/usr/local/go/misc/vim'
 set runtimepath+='/nosuchdir'
 filetype on
 filetype plugin on
-	filetype plugin indent on
+filetype plugin indent on
 
 syntax on
 filetype plugin indent on
